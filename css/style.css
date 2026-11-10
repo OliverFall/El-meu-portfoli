@@ -1,0 +1,171 @@
+body {
+	margin: 0;
+	background-color: lightsteelblue;
+}
+
+h1,
+h2,
+h4,
+h5,
+h6 {
+	color: rgb(0, 0, 0);
+}
+
+h3 {
+	color: #ffffff;
+}
+
+p {
+	background-color: khaki;
+	border: 3px solid black;
+	box-shadow: 3px 3px 3px 3px #000000;
+	border-radius: 15px;
+	width: 250px;
+	height: 130px;
+	margin: 10px;
+}
+
+img {
+
+	border: 3px solid black;
+	box-shadow: 5px 5px 5px 5px #222020;
+	border-radius: 15px;
+	width: 130px;
+	height: 180px;
+	margin: 20px;
+}
+
+
+ul {
+	margin: 0;
+	padding: 10px;
+	list-style-type: none;
+	overflow: hidden;
+	background-color: black;
+}
+
+ul img {
+	margin-top: 0;
+	height: 45px;
+	width: 45px;
+	float: left;
+	border: 3px solid white;
+	border-radius: 200px;
+	box-shadow: none;
+	object-fit: cover;
+}
+
+li a:hover {
+	text-decoration: underline;
+	color: #ffffff;
+}
+
+li a:focus {
+	text-decoration: underline;
+	color: bisque;
+}
+
+li a:active {
+	text-decoration: underline;
+	color: bisque;
+}
+
+ul li {
+	margin-top: 15px;
+	width: 100px;
+	float: left;
+}
+
+ul li a {
+
+	color: white;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+footer {
+	margin: 0;
+	padding: 10px;
+	list-style-type: none;
+	overflow: hidden;
+	background-color: black;
+}
+
+.contingut-principal {
+	background-color: #ffffff;
+	color: #333333;
+	border: 2px solid #001f54;
+	margin: 20px;
+	min-height: 71vh;
+}
+
+table {
+	width: 100%;
+}
+
+th {
+	border: 2px solid #000000;
+}
+
+td {
+	text-align: center;
+}
+
+.IPO {
+	background-color: rgb(1, 252, 1);
+}
+
+.Muntatge-i-manteniment {
+	background-color: rgb(247, 218, 175);
+}
+
+.Xarxes-locals {
+	background-color: rgb(155, 98, 12);
+}
+
+.Ofimàtica {
+	background-color: rgb(147, 197, 9);
+}
+
+.Mòdul-optatiu {
+	background-color: rgb(192, 71, 192);
+}
+
+.Tutoria {
+	background-color: plum;
+}
+
+.Sistemes-operatius {
+	background-color: rgb(148, 247, 227);
+}
+
+.Sostenibilitat {
+	background-color: rgb(255, 166, 0);
+}
+
+.Angles {
+	background-color: rgb(219, 18, 18);
+}
+
+.Digitalitzacio {
+	background-color: rgb(151, 151, 105);
+}
+
+.Calendari {
+	background-color: #000000;
+	color: #ffffff;
+}
+
+.Cap-de-setmana {
+	color: red;
+}
+
+.Festiu-Nacional {
+	background-color: red;
+	color: #ffffff;
+}
+
+.Festiu-Autonomic {
+	background-color: green;
+	color: #ffffff;
+}
