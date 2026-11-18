@@ -172,35 +172,36 @@ td {
 }
 
 .formularis {
-	border: 1px solid black;
-	border-radius: 10px;
-	width: 80%;
-	height: 90%;
 	margin-top: 3%;
-	margin-left: 10%;
-	
+	margin-left: 15px;
 }
-label{
+
+label {
 	margin: 10px;
+	font-size: large;
+	font-weight: 1000;
+	color: #000000;
 }
-input{
+
+input {
 	border: 2px solid gray;
 	border-radius: 3px;
 	width: 97.5%;
 	height: 40px;
 }
-textarea{
+
+textarea {
 	border: 2px solid gray;
 	border-radius: 3px;
 	width: 97.5%;
 	height: 80px;
 }
 
-button{
+button {
 	background-color: #000000;
 	color: #ffffff;
 	width: 140px;
 	height: 47px;
 	border-radius: 20px;
-	font-size:16px;
+	font-size: 16px;
 }
